@@ -13,28 +13,29 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Bright Blue: hsl(220, 98%, 61%)
+- Blue 500: hsl(220, 98%, 61%)
 - Check Background: linear-gradient hsl(192, 100%, 67%) to hsl(280, 87%, 65%)
 
 ### Neutral
 
 ### Light Theme
 
-- Very Light Gray: hsl(0, 0%, 98%)
-- Very Light Grayish Blue: hsl(236, 33%, 92%)
-- Light Grayish Blue: hsl(233, 11%, 84%)
-- Dark Grayish Blue: hsl(236, 9%, 61%)
-- Very Dark Grayish Blue: hsl(235, 19%, 35%)
+- Gray 50: hsl(0, 0%, 98%)
+- Purple 300: hsl(234, 39%, 85%)
+- Gray 300: hsl(233, 11%, 84%)
+- Gray 600: hsl(236, 9%, 61%)
+- Navy 850: hsl(235, 19%, 35%)
 
 ### Dark Theme
 
-- Very Dark Blue: hsl(235, 21%, 11%)
-- Very Dark Desaturated Blue: hsl(235, 24%, 19%)
-- Light Grayish Blue: hsl(234, 39%, 85%)
-- Light Grayish Blue (hover): hsl(236, 33%, 92%)
-- Dark Grayish Blue: hsl(234, 11%, 52%)
-- Very Dark Grayish Blue: hsl(233, 14%, 35%)
-- Very Dark Grayish Blue: hsl(237, 14%, 26%)
+- Navy 950 hsl(235, 21%, 11%)
+- Navy 900: hsl(235, 24%, 19%)
+- Purple 300: hsl(234, 39%, 85%)
+- Purple 100 (hover): hsl(236, 33%, 92%)
+- Purple 600: hsl(235, 16%, 43%)
+- Purple 700: hsl(233, 14%, 35%)
+- Purple 800: hsl(237, 14%, 26%)
+- Gray 600: hsl(236, 9%, 61%)
 
 ## Typography
 
